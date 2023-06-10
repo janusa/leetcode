@@ -1,7 +1,9 @@
 # LeetCode
 
 ## General Info
-This repository contains my solutions to various LeetCode problems that I solve just for fun. I'm relatively new to Python, so you might come across alternative solutions or better approaches to solve these problems. Feel free to use the code provided here as a reference or starting point for your own problem-solving journey on LeetCode.  
+This repository contains my solutions to various LeetCode problems that I solve just for fun. 
+Disclaimer: I'm relatively new to Python, so please bear with me 😊
+
 
 ## Problems solved so far
 | Problem | Description | Difficulty | Note |
