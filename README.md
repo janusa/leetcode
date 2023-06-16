@@ -11,6 +11,8 @@ Disclaimer: I'm relatively new to Python, so please bear with me 😊
 | [Problem 13](https://leetcode.com/problems/roman-to-integer/?envType=featured-list&envId=challenges-for-new-users) | Convert from roman numeral to hindu arabic numeral | Easy | |
 | [Problem 383](https://leetcode.com/problems/ransom-note/?envType=featured-list&envId=challenges-for-new-users) | Verify if it's possible to create a specific ransom note with characters from a magazine | Easy | |
 | [Problem 234](https://leetcode.com/problems/palindrome-linked-list/?envType=featured-list&envId=challenges-for-new-users) | Verify if a singly linked list is a palindrom | Easy-Medium | In O(n) time and O(1) space |
+| [Problem 412](https://leetcode.com/problems/fizz-buzz/?envType=featured-list&envId=challenges-for-new-users) | Generate a Fizz Buzz list | Easy | |
+
 
 
 
